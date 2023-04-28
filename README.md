@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DefnotKenny
 - 👀 I’m interested in codes lol
 - 🌱 I’m currently learning ...still learning
-- 💞️ I’m looking to collaborate with everyome
+- 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me ...probably not
 
 <!---
